@@ -936,6 +936,7 @@ These providers offer apps and services filled with data trackers. Also, most of
 - [Quillpad](https://quillpad.github.io/) - Take beautiful markdown notes and stay organized with task lists. Fork of Quillnote.
 - [SiYuan](https://github.com/siyuan-note/siyuan) - A local-first personal knowledge management system.
 - [Standard Notes](https://standardnotes.com/) - A free, open-source, and completely encrypted notes app.
+- [Textus](https://github.com/CatVinci-Studio/Textus) - Open-source Markdown editor that keeps your writing in local files, with no account and no telemetry; the optional AI assistant can run on local Ollama models. MIT licensed, macOS/Windows/Linux.
 - [TinyList](https://tinylist.app/) - Create and share notes and checklists, without sacrificing your privacy.
 - [Trilium Notes](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes 
 - [Vikunja](https://vikunja.io) - The open-source to-do app to organize your life.
